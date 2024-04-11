@@ -4592,7 +4592,7 @@ html {
   
   @media screen and (max-width: 991px) {
     .nav-container {
-      height: 100%;
+      height: fit-content;
       display: block;
       position: fixed;
     }
@@ -5490,3 +5490,5 @@ html {
       width: 50%;
     }
   }
+
+
