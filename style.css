@@ -5095,7 +5095,7 @@ html {
     }
   
     .section-text {
-      height: 300ch;
+      height: 280ch;
     }
   
     .circle-menu-large-absolute {
@@ -5178,7 +5178,7 @@ html {
       align-items: center;
       height: 3em;
       font-size: 12em;
-      line-height: .6;
+      line-height: 1.6;
       display: flex;
       overflow: hidden;
     }
@@ -5490,5 +5490,7 @@ html {
       width: 50%;
     }
   }
+
+  
 
 
