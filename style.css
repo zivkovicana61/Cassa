@@ -2987,7 +2987,7 @@ html {
   }
   
   .image-9 {
-    width: 80%;
+    width: 100%;
     margin-bottom: 20px;
     margin-left: auto;
     margin-right: auto;
@@ -5095,7 +5095,7 @@ html {
     }
   
     .section-text {
-      height: 280ch;
+      height: 300ch;
     }
   
     .circle-menu-large-absolute {
